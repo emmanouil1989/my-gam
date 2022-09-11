@@ -1,4 +1,4 @@
-RPG game - Ruls: 
+RPG game - Rules: 
 
  - game has 2 players, each player has a 6 (or X) sided die, and 20 (or Y) of life points (HP)
 
