@@ -10,7 +10,7 @@ export enum AppAction {
   changeValue = "changeValue",
   resetApp = "resetApp",
 }
-const Player_Health = 2;
+const Player_Health = 20;
 
 type AppType = {
   initialHealth?: {
