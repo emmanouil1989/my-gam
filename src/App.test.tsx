@@ -22,6 +22,7 @@ test("renders App component", () => {
   expect(screen.getByText(/Reset/)).toBeInTheDocument();
 
   expect(screen.getByText(/Next Round/)).toBeInTheDocument();
+  
   cleanup();
 });
 
